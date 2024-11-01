@@ -28,4 +28,4 @@ I'm a CE Student passionate about AI, ML and software.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=radical-1&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radical-1&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=radical-1&theme=radical)
-![Your Activity](https://activity-graph.herokuapp.com/graph?username=radical-1&theme=react-dark)
+![Contribution Graph](https://github-readme-stats.vercel.app/api/graph?username=radical-1&theme=radical)
