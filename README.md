@@ -33,5 +33,7 @@ I'm a CE Student passionate about AI, ML and software.
 ## 📈 GitHub Contributions
 ![Your Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radical-1&theme=github_dark)
 
+## 🐍 Contribution Snake
+![Contribution Snake](https://radical-1.github.io/output/github-contribution-snake.svg)
 
 
