@@ -2,12 +2,6 @@
 
 I'm a CE Student passionate about AI, ML and software.
 
-## 🎉 Welcome to My GitHub Profile!
-![Coding GIF](https://media.giphy.com/media/fx2fK1t2E0mbu/giphy.gif)
-I love working with AI and ML! Here's a fun animation related to AI:
-![AI Animation](https://media.giphy.com/media/3oEjI5l0M7xGA9nS4E/giphy.gif)
-
-
 ## 🌱 Currently Learning
 - Machine Learning
 - AI Engineering
@@ -35,3 +29,11 @@ I love working with AI and ML! Here's a fun animation related to AI:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radical-1&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=radical-1&theme=radical)
 
+
+![AI Animation](https://media.giphy.com/media/l2JdU8W4gk74Yj7dy/giphy.gif)
+![Funny Coding](https://media.giphy.com/media/3o72F0gWxDtyDO5H4M/giphy.gif)
+![Working Hard](https://media.giphy.com/media/3oEjI2zD3DkzI4J0f6/giphy.gif)
+## 🎉 Welcome to My GitHub Profile!
+![Coding GIF](https://media.giphy.com/media/fx2fK1t2E0mbu/giphy.gif)
+I love working with AI and ML! Here's a fun animation related to AI:
+![AI Animation](https://media.giphy.com/media/l2JdU8W4gk74Yj7dy/giphy.gif)
