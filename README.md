@@ -1,12 +1,12 @@
 # Hi there, I'm AmirHosein! 👋
 
-## 🎉 Welcome to My GitHub Profile!
-![Coding GIF](https://giphy.com/gifs/coding-3o7btPCcdN7mZDjC3m)
-
-I love working with AI and ML! Here's a fun animation related to coding:
-![AI Animation](https://raw.githubusercontent.com/radical-1/radical-1/main/ai-animation.gif)
-
 I'm a CE Student passionate about AI, ML and software.
+
+## 🎉 Welcome to My GitHub Profile!
+![Coding GIF](https://media.giphy.com/media/3o7btPCcdN7mZDjC3m/giphy.gif)
+I love working with AI and ML! Here's a fun animation related to AI:
+![AI Animation](https://media.giphy.com/media/3oEjI5l0M7xGA9nS4E/giphy.gif)
+
 
 ## 🌱 Currently Learning
 - Machine Learning
