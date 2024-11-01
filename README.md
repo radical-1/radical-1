@@ -3,7 +3,7 @@
 I'm a CE Student passionate about AI, ML and software.
 
 ## 🎉 Welcome to My GitHub Profile!
-![Funny Coding](https://media.giphy.com/media/13CoXas6D5W0N2/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/fx2fK1t2E0mbu/giphy.gif)
 I love working with AI and ML! Here's a fun animation related to AI:
 ![AI Animation](https://media.giphy.com/media/3oEjI5l0M7xGA9nS4E/giphy.gif)
 
