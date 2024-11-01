@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm AmirHosein! 👋
 
-<!--
-**radical-1/radical-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CE Student passionate about AI, ML and software.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Machine Learning
+- AI Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+- [Gwent Game](https://github.com/advanced-programming-sut-2024/advanced-programming-project-group-12)
+- [Music Recomemndation Tool](https://github.com/radical-1/MusicRecomendationTool)
+- [Fraud Detection](https://github.com/radical-1/FraudDetectionSystem)
+
+## 📫 How to Reach Me
+- Sharif Email: [amir,mirzaii22@sharif.edu](mailto:amir.mirzaii22@sharif.edu)
+- Email: [amirhosein.mirzaei6661@gmail.com](mailto:amirhosein.mirzaei6661@gmail.com)
+- Twitter: [@radicalminuson1](https://twitter.com/radicalminuson1)
+- LinkedIn: [AmirHosein Mirzaei](https://www.linkedin.com/in/amirhosein-mirzaei-39a86232b/)
+
+## 🎨 Skills
+![Python Badge](https://img.shields.io/badge/Python-3.9-blue)
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-2.4.1-orange)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-1.9.0-red)
+![Git Badge](https://img.shields.io/badge/Git-2.32.0-orange)
+![Machine Learning Badge](https://img.shields.io/badge/Machine%20Learning-ML%20Projects-lightgreen)
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=radical-1&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
